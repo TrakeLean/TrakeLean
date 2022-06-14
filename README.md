@@ -1,6 +1,6 @@
-# Hi there, Welcome to my GitHub profile!👋 
+# Hi there, Welcome to my GitHub!👋 
 
-## I'm a student in computer science🔬
+## My name is Tarek, and i'm currently studying computer science🔬
 
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:<br /> 
@@ -8,6 +8,7 @@
     ⊙ Become a god in Python and better in C.<br /> 
     ⊙ Create my first mobile application.<br /> 
 
+---
 
 ### Connect with me:
 
@@ -21,6 +22,7 @@
 [![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
+---
 
 ### Languages and Tools:
 
