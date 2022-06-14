@@ -36,7 +36,10 @@
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
+
 ---
+
 <br />
 
 <details>
