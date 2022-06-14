@@ -4,7 +4,8 @@
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:<br /> 
     ⊙ Get through my first year :)<br /> 
-    ⊙ Become a god in Python and better in C.<br /> 
+    ⊙ Sweat Python<br /> 
+    ⊙ Become better in C<br /> 
     ⊙ Create my first mobile application.<br /> 
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 
@@ -38,7 +39,6 @@
   <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
 <!-- </details> -->
 
----
 
 ### Connect with me:
 
