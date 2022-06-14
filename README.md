@@ -40,7 +40,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img align="left" alt="switches between panel dark and light mode" src="hhttps://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
+  <img align="left" alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
 </picture>
 
   <!-- <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25"> -->
