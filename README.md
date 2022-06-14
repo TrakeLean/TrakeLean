@@ -18,8 +18,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/Sjeikentarak#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/Sjeikentarak#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -45,6 +45,7 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrakeLean&layout=compact)](https://github.com/TrakeLean/github-readme-stats)
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
