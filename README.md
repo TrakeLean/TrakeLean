@@ -7,9 +7,18 @@
     ￫ Sweat Python<br /> 
     ￫ Become better in C<br /> 
     ￫ Create my first mobile application.<br />
-[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
+[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff)](https://github.com/TrakeLean/github-readme-stats)
 
 ---
+
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
+  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
+</picture>
+
+
+
 
 ### Languages and Tools:
 
@@ -30,17 +39,19 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=9745f5&icon_color=9f4bff&bg_color=0E1117&text_color=ffffff">
+  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
 
 </details>
 
 ---
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
-<!-- </details> -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
+  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
+</picture>
+
+
 
 ---
 
