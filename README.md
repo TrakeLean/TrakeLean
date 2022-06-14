@@ -7,10 +7,7 @@
     ￫ Sweat Python<br /> 
     ￫ Become better in C<br /> 
     ￫ Create my first mobile application.<br />
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
-</picture>
+[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
 
 ---
 
@@ -30,19 +27,24 @@
 <br />
 <details>
   <summary>:zap: Language Stats</summary>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
+  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
+
 </details>
 
 ---
 
-[![trakelean-github-stats](https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25)](https://github-readme-stats.vercel.app/api?username=TrakeLean&redirect=true#gh-light-mode-only)
+  <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
 
-[![trakelean-github-stats](https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff)](https://github-readme-stats.vercel.app/api?username=TrakeLean&redirect=true#gh-dark-mode-only)
+
+
+---
 
 ### Connect with me:
+
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
@@ -53,10 +55,7 @@
 [![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true#gh-dark-mode-only)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true#gh-light-mode-only)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true)
 
 ---
 
