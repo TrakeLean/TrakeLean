@@ -12,14 +12,14 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/Sjeikentarak#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/Sjeikentarak#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/watch?v=EdXjLVVa3no#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -31,6 +31,8 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
