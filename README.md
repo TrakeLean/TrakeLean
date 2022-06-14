@@ -43,7 +43,6 @@
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
 
----
 ### Connect with me:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
