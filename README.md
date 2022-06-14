@@ -3,10 +3,10 @@
 ## studying: computer science🔬
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:<br /> 
-    ⊙ Get through my first year :)<br /> 
-    ⊙ Sweat Python<br /> 
-    ⊙ Become better in C<br /> 
-    ⊙ Create my first mobile application.<br /> 
+    ￫ Get through my first year :)<br /> 
+    ￫ Sweat Python<br /> 
+    ￫ Become better in C<br /> 
+    ￫ Create my first mobile application.<br /> 
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 
 ---
