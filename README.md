@@ -44,9 +44,7 @@
 </picture>
 
 ---
-
 ### Connect with me:
-
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
