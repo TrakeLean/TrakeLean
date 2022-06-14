@@ -1,5 +1,3 @@
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 # print('Hi there, My name is Tarek👋🏼') <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="225" />
 
@@ -56,6 +54,9 @@
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true)
+
+<br />
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
