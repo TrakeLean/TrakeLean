@@ -34,6 +34,8 @@
 
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="JSON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
+
 <br />
 <br />
 
