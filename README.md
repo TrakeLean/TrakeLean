@@ -45,6 +45,8 @@
 
 </details>
 
+---
+
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 
 
