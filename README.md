@@ -54,7 +54,7 @@
 [![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true#gh-dark-mode-only)
 
 ---
 
