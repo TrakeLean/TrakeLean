@@ -39,21 +39,28 @@
 <br />
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
 
 </details>
 
 ---
+<details>
+  <summary>:zap: Wakatime Stats</summary>
 
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 
+</details>
+
+<details>
+  <summary>:zap: Language Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true)](https://github.com/TrakeLean/github-readme-stats)
 
-
+</details>
 
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
