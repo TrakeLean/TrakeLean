@@ -6,7 +6,7 @@
     ⊙ Get through my first year :)<br /> 
     ⊙ Become a god in Python and better in C.<br /> 
     ⊙ Create my first mobile application.<br /> 
-
+[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 ---
 
 ### Connect with me:
@@ -49,14 +49,10 @@
 
 <br />
 
-<br />
-
-[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary> -->
   <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
-</details>
+<!-- </details> -->
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
