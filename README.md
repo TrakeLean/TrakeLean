@@ -1,5 +1,5 @@
 # Hi there, My name is Tarek👋🏼 <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
-- 🔬 Studying computer science🔬
+## Currently studying computer science🔬
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:<br /> 
     ￫ Get through my first year :)<br /> 
