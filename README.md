@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:
-    ⊙ Get through my first year :).
+    ⊙ Get through my first year :).\n
     ⊙ Become a god in Python and better in C.
     ⊙ Create my first mobile application.
