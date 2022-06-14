@@ -1,4 +1,5 @@
 # Hi there, My name is Tarek👋🏼 <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" />
 - 🌱 I’m currently studying computer science [1/3].
 - 🥅 2022 Goals:<br /> 
     ￫ Get through my first year :)<br /> 
@@ -7,7 +8,6 @@
     ￫ Create my first mobile application.<br />
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" />
 ---
 
 ### Languages and Tools:
