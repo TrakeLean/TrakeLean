@@ -1,5 +1,14 @@
 # print('Hi there, My name is Tarek👋🏼') <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="250" />
+
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="250" />
+ -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="250" />
+</picture>
+
+
 
 - 🌱 I’m currently studying computer science [1/3].
 - 🥅 2022 Goals:<br /> 
@@ -18,15 +27,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="left" alt="Github" width="26px" src="./img/github.png" style="padding-right:10px;" />
 </picture>
-
-
-
-
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
