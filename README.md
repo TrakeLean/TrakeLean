@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" /> </p>
+align="left"> <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
+
 # Hi there, My name is Tarek👋🏼
 - 🔬 Studying computer science🔬
 - 🌱 I’m currently on my first year.
