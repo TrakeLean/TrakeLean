@@ -23,6 +23,13 @@
 
 ---
 
+swift: {
+      title_color: "000000",
+      icon_color: "f05237",
+      text_color: "000000",
+      bg_color: "f7f7f7",
+    }
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
