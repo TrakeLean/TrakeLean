@@ -7,19 +7,6 @@
     ⊙ Become a god in Python and better in C.<br /> 
     ⊙ Create my first mobile application.<br /> 
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
----
-
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/Sjeikentarak#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/Sjeikentarak#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
 ---
 
@@ -43,16 +30,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true)](https://github.com/TrakeLean/github-readme-stats)
 
 </details>
-<br />
 
 ---
-
-<br />
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary> -->
   <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
 <!-- </details> -->
+
+---
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/Sjeikentarak#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/Sjeikentarak#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
