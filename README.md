@@ -1,7 +1,6 @@
-# Hi there, Welcome to my GitHub!👋 
+# Hi there, My name is Tarek👋🏼
 
-## My name is Tarek, and i'm currently studying computer science🔬
-
+## studying: computer science🔬
 - 🌱 I’m currently on my first year.
 - 🥅 2022 Goals:<br /> 
     ⊙ Get through my first year :)<br /> 
