@@ -45,9 +45,13 @@
 
 </details>
 
+[![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact)](https://github.com/TrakeLean/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&langs_count=8)](https://github.com/TrakeLean/github-readme-stats)
+
+
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
