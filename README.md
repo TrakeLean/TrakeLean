@@ -55,6 +55,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true)
 
+---
+
 <br />
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
