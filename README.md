@@ -20,8 +20,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img align="left" alt="switches between github dark and light mode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" alt="switches between github dark and light mode" width="26px" src="./image/github.png" style="padding-right:10px;" />
 </picture>
 
 
