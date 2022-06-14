@@ -43,13 +43,12 @@
 [![trakelean-github-stats](https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff)](https://github-readme-stats.vercel.app/api?username=TrakeLean&redirect=true#gh-dark-mode-only)
 
 ### Connect with me:
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/instagram-light.svg)](https://www.instagram.com/Sjeikentarak#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/Sjeikentarak#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/youtube-light.svg)](https://youtu.be/rU-X6t8clp0#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
