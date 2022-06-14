@@ -51,8 +51,10 @@
   <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25" />
 <br />
 </details>
+<br />
 
 <details>
+<br />
   <summary>:zap: Language Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true)](https://github.com/TrakeLean/github-readme-stats)
