@@ -44,13 +44,8 @@
 
 <br />
 
-<details>
-  <summary>:zap: Wakatime Stats</summary>
-
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean)](https://github.com/TrakeLean/github-readme-stats)
 
-</details>
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
