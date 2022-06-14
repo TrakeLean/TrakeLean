@@ -11,16 +11,15 @@
 
 ### Connect with me:
 
-
-[![website](./img/youtube-light.svg)](#www.youtube.com/watch?v=EdXjLVVa3nogh-light-mode-only)
-[![website](./img/youtube-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/tarek-lein-976446225/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/tarek-lein-976446225/#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](www.instagram.com/Sjeikentarak#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](www.instagram.com/Sjeikentarak#gh-dark-mode-only)
-
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
