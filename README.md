@@ -7,7 +7,9 @@
     ￫ Become better in C<br /> 
     ￫ Create my first mobile application.<br />
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
-
+<br />
+<br />
+<br />
 ---
 
 ### Languages and Tools:
