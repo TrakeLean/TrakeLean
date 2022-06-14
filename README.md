@@ -6,7 +6,8 @@
     ￫ Become better in C<br /> 
     ￫ Create my first mobile application.<br />
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" />
 ---
 
 ### Languages and Tools:
