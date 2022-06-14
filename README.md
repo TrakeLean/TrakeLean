@@ -5,9 +5,8 @@
     ￫ Sweat Python<br /> 
     ￫ Become better in C<br /> 
     ￫ Create my first mobile application.<br />
-    (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 [![TrakeLean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2)](https://github.com/TrakeLean/github-readme-stats)
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 ---
 
 ### Languages and Tools:
