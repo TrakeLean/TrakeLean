@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <img align="right" alt="GIF" src="./img/totoro.gif" width="300" height="300" />
+  <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="300" />
 </picture>
 
 
