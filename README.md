@@ -21,7 +21,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="left" alt="switches between github dark and light mode" width="26px" src="./image/github.png" style="padding-right:10px;" />
+  <img align="left" alt="Github" width="26px" src="./img/github.png" style="padding-right:10px;" />
 </picture>
 
 
