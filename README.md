@@ -37,11 +37,12 @@
 </details>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
-
+<details>
+    <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
+    <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
+    </picture>
+<details>
 
 ### Connect with me:
 &nbsp;&nbsp;
@@ -55,7 +56,6 @@
 [![website](./img/youtube-dark.svg)](https://youtu.be/rU-X6t8clp0#gh-dark-mode-only)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&cover_image=true&theme=natemoo-re&bar_color=384d38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tareklein&redirect=true)
-</picture>
 
 ---
 
