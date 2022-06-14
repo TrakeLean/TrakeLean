@@ -11,6 +11,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
+
 ---
 
 ### Languages and Tools:
@@ -29,12 +30,10 @@
 <br />
 <details>
   <summary>:zap: Language Stats</summary>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakelean&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
-
 </details>
 
 ---
@@ -43,8 +42,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=0E1117&text_color=ffffff">
 </picture>
-
-
 
 ---
 
