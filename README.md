@@ -1,14 +1,9 @@
 # print('Hi there, My name is Tarek👋🏼') <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
 
-<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="250" />
- -->
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="300" />
 </picture>
-
-
 
 - 🌱 I’m currently studying computer science [1/3].
 - 🥅 2022 Goals:<br /> 
@@ -76,8 +71,8 @@
 ---
 
 <br />
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+<img src="https://random-memer.herokuapp.com/" width="400px"/>
+<!-- 512 -->
 [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
 [linkedin]: https://www.linkedin.com/in/tarek-lein-976446225/
