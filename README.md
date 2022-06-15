@@ -73,6 +73,6 @@
 <br />
 <img src="https://random-memer.herokuapp.com/" width="400px"/>
 <!-- 512 -->
-[youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
+<!-- [youtube]: https://www.youtube.com/watch?v=EdXjLVVa3no
 [instagram]: https://www.instagram.com/Sjeikentarak
-[linkedin]: https://www.linkedin.com/in/tarek-lein-976446225/
+[linkedin]: https://www.linkedin.com/in/tarek-lein-976446225/ -->
