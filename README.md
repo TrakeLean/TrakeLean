@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="300" />
 </picture>
 
-- 🌱 I’m currently studying computer science [1/3].
+- 🌱 I’m currently studying computer science [2/3].
 - 🥅 2022 Goals:<br />
     ￫ Sweat Python<br />
     ￫ Become better in C<br />
