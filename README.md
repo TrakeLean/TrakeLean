@@ -30,7 +30,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./img/darklatex.png">
-  <img align="left" alt="Latex" width="34" src="./img/latex.png" style="padding-right:10px;" />
+  <img align="left" alt="Latex" width="34" src="./img/latex.png" style="padding-right:10px;", style="padding-top:3px;" />
 </picture>
 
 <img align="left" alt="Docker" width="26px" src="./img/docker.jpg" style="padding-right:10px;" />
