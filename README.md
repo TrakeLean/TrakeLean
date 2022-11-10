@@ -30,10 +30,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg">
-  <img align="left" alt="Latex" width="34px" src="./img/latex.png" style="padding-right:10px;" />
+  <img align="left" alt="Latex" width="34" src="./img/latex.png" style="padding-right:10px;" />
 </picture>
 
-<img align="left" alt="Docker" width="34px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
@@ -41,7 +41,7 @@
 
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Assmebly" width="34px" src="./img/assembly.png" style="padding-right:10px;" />
+<img align="left" alt="Assmebly" width="26px" src="./img/assembly.png" style="padding-right:10px;" />
 
 <br />
 <br />
