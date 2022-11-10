@@ -29,11 +29,11 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/darklatex.png">
   <img align="left" alt="Latex" width="34" src="./img/latex.png" style="padding-right:10px;" />
 </picture>
 
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="./img/docker.jpg" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
