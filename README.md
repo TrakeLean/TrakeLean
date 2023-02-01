@@ -6,11 +6,11 @@
 </picture>
 
 - 🌱 I’m currently studying computer science [2/3].
-- 🥅 2022 Goals:<br />
+- 🥅 2023 Goals:<br />
     ￫ Sweat Python<br />
-    ￫ Become better in C<br />
-    ￫ Learn Javascript<br />
-    ￫ dabble into HTML & CSS<br />
+    ￫ Become better in C (still)<br />
+    ￫ Get an "A" in Operating Systems<br />
+    ￫ Become better at writing reports<br />
     ￫ Learn how to properly read library docs :)<br />
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
