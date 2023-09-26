@@ -5,11 +5,10 @@
   <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="300" />
 </picture>
 
-- 🌱 I’m currently studying computer science [2/3].
-- 🥅 2023 Goals:<br />
+- 🌱 I’m currently studying computer science [3/3].
+- 🥅 2023/2024 Goals:<br />
     ￫ Sweat Python<br />
-    ￫ Become better in C (still)<br />
-    ￫ Get an "A" in Operating Systems<br />
+    ￫ Learn Javascript/Typescrit, React, HTML, CSS<br />
     ￫ Become better at writing reports<br />
     ￫ Learn how to properly read library docs :)<br />
 <picture>
