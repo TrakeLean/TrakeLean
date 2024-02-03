@@ -10,7 +10,7 @@
     ￫ Sweat Python<br />
     ￫ Become better at writing reports<br />
     ￫ Learn how to properly read library docs :)<br />
-    ￫ Goal hit, got ´two jobs! RPA@SB1 and DPS@Sopra <br />
+    ￫ Goal hit, got two jobs! RPA@SB1 and DPS@Sopra <br />
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&title_color=C8D1D9&icon_color=C8D1D9&bg_color=0E1117&text_color=C8D1D9">
