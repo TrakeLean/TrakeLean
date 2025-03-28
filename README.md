@@ -1,15 +1,24 @@
-# print('Hi there, My name is Tarek👋🏼') <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" />
+# print('Hi there, My name is Tarek👋🏼') <img src="https://komarev.com/ghpvc/?username=trakelean&label=Profile%20views&color=0e75b6&style=flat" alt="trakelean" /> [![wakatime](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948.svg)](https://wakatime.com/@25484680-9f95-4670-92ea-9abd3854b948)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./img/totorocart.gif">
   <img align="right" alt="GIF" src="./img/dark.gif" width="300" height="300" />
 </picture>
 
-~~- 🌱 I’m currently studying computer science [3/3].~~  
-- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ![Duration](https://img.shields.io/badge/duration-7_months_29_days-blue)
+~~- 🌱 I'm currently studying computer science [3/3].~~  
+- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ![Duration](https://img.shields.io/badge/duration-just_started-blue)
+- 🔭 Currently exploring: Advanced Penetration Testing techniques
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
-  <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&title_color=C8D1D9&icon_color=C8D1D9&bg_color=0E1117&text_color=C8D1D9">
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default"
+  />
+  <img alt="Tarek's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default" />
 </picture>
 
 ---
@@ -40,6 +49,15 @@
 
 <br />
 <br />
+
+### Skills:
+
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![C](https://img.shields.io/badge/C-Advanced-green)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Intermediate-yellow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermediate-yellow)
+![Terraform](https://img.shields.io/badge/Terraform-Learning-blue)
+
 <details>
   <summary>:zap: Language Stats</summary>
 <picture>
@@ -50,12 +68,23 @@
 
 ---
 
+### GitHub Stats:
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img align="left" alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=false&title_color=C8D1D9&icon_color=C8D1D9&bg_color=0E1117&text_color=C8D1D9">
 </picture>
 
-  <!-- <img align="left" alt="TrakeLean's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TrakeLean&show_icons=true&hide_border=true&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25"> -->
+<br clear="all" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trakelean&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### Featured Projects:
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=trakelean&repo=penetration-testing-suite&theme=dark)](https://github.com/trakelean/penetration-testing-suite)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=trakelean&repo=cybersecurity-tools&theme=dark)](https://github.com/trakelean/cybersecurity-tools)
 
 ---
 
