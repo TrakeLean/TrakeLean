@@ -12,13 +12,13 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=dark&layout=compact&langs_count=5"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default&layout=compact&langs_count=5"
   />
-  <img alt="Tarek's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default" />
+  <img alt="Tarek's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&theme=default&layout=compact&langs_count=5" />
 </picture>
 
 ---
