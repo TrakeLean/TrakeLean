@@ -1,4 +1,4 @@
-name: Update Work Duration
+name: Update Work Duration Badge
 
 on:
   schedule:
@@ -12,10 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         
-      - name: Update README
+      - name: Calculate duration
+        id: duration
         run: |
           # Calculate work duration
-          START_DATE="2024-08-01"  # August 1, 2024 (your correct start date)
+          START_DATE="2024-08-01"  # August 1, 2024
           
           # Get current date in seconds since epoch
           CURRENT_DATE=$(date +%s)
@@ -35,50 +36,57 @@ jobs:
           MONTHS=$((REMAINING_DAYS / 30))
           DAYS=$((REMAINING_DAYS % 30))
           
-          # Format the duration string
-          if [ "$YEARS" -eq "1" ]; then
-            YEARS_STR="1 year"
-          else
-            YEARS_STR="$YEARS years"
-          fi
+          # Format duration for shields.io badge
+          # Format should be URL-friendly (no spaces, special chars)
+          DURATION_TEXT=""
           
-          if [ "$MONTHS" -eq "1" ]; then
-            MONTHS_STR="1 month"
-          else
-            MONTHS_STR="$MONTHS months"
-          fi
-          
-          if [ "$DAYS" -eq "1" ]; then
-            DAYS_STR="1 day"
-          else
-            DAYS_STR="$DAYS days"
-          fi
-          
-          DURATION=""
           if [ "$YEARS" -gt "0" ]; then
-            DURATION="$YEARS_STR"
+            if [ "$YEARS" -eq "1" ]; then
+              DURATION_TEXT="${YEARS}_year"
+            else
+              DURATION_TEXT="${YEARS}_years"
+            fi
           fi
           
           if [ "$MONTHS" -gt "0" ]; then
-            if [ -n "$DURATION" ]; then
-              DURATION="$DURATION, $MONTHS_STR"
+            if [ -n "$DURATION_TEXT" ]; then
+              DURATION_TEXT="${DURATION_TEXT}_"
+            fi
+            
+            if [ "$MONTHS" -eq "1" ]; then
+              DURATION_TEXT="${DURATION_TEXT}${MONTHS}_month"
             else
-              DURATION="$MONTHS_STR"
+              DURATION_TEXT="${DURATION_TEXT}${MONTHS}_months"
             fi
           fi
           
           if [ "$DAYS" -gt "0" ]; then
-            if [ -n "$DURATION" ]; then
-              DURATION="$DURATION, $DAYS_STR"
+            if [ -n "$DURATION_TEXT" ]; then
+              DURATION_TEXT="${DURATION_TEXT}_"
+            fi
+            
+            if [ "$DAYS" -eq "1" ]; then
+              DURATION_TEXT="${DURATION_TEXT}${DAYS}_day"
             else
-              DURATION="$DAYS_STR"
+              DURATION_TEXT="${DURATION_TEXT}${DAYS}_days"
             fi
           fi
           
-          echo "Calculated duration: $DURATION"
+          # If there's no duration yet (negative time), set a default
+          if [ -z "$DURATION_TEXT" ]; then
+            DURATION_TEXT="just_started"
+          fi
           
-          # Create new line for README
-          NEW_LINE="- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ($DURATION)"
+          echo "Duration text: $DURATION_TEXT"
+          echo "duration_text=$DURATION_TEXT" >> $GITHUB_OUTPUT
+          
+      - name: Update README with shields.io badge
+        run: |
+          DURATION_TEXT="${{ steps.duration.outputs.duration_text }}"
+          BADGE_URL="https://img.shields.io/badge/duration-${DURATION_TEXT}-blue"
+          
+          # Create new line for README with shields.io badge
+          NEW_LINE="- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ![Duration](${BADGE_URL})"
           
           # Replace the line in README.md
           sed -i "s|- 🛡️ I'm currently working at Sopra Steria with cybersecurity.*$|$NEW_LINE|g" README.md
@@ -88,5 +96,5 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add README.md
-          git commit -m "Update work duration" || echo "No changes to commit"
+          git commit -m "Update work duration badge" || echo "No changes to commit"
           git push
