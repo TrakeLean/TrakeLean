@@ -6,7 +6,7 @@
 </picture>
 
 ~~- 🌱 I’m currently studying computer science [3/3].~~  
-- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 (0 months, 0 days)
+- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 (7 months, 29 days)
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&&title_color=000000&icon_color=f05237&bg_color=f7f7f7&text_color=000000&border_color=0c1a25">
   <img alt="switches between panel dark and light mode" src="https://github-readme-stats.vercel.app/api/wakatime?username=TrakeLean&v=2&show_icons=true&hide_border=true&title_color=C8D1D9&icon_color=C8D1D9&bg_color=0E1117&text_color=C8D1D9">
