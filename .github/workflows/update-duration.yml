@@ -1,0 +1,92 @@
+name: Update Work Duration
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-duration:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Update README
+        run: |
+          # Calculate work duration
+          START_DATE="2024-08-01"  # August 1, 2024 (your correct start date)
+          
+          # Get current date in seconds since epoch
+          CURRENT_DATE=$(date +%s)
+          
+          # Convert start date to seconds since epoch
+          START_DATE_SECONDS=$(date -d "$START_DATE" +%s)
+          
+          # Calculate difference in seconds
+          DIFF_SECONDS=$((CURRENT_DATE - START_DATE_SECONDS))
+          
+          # Convert to days
+          DIFF_DAYS=$((DIFF_SECONDS / 86400))
+          
+          # Calculate years, months, days
+          YEARS=$((DIFF_DAYS / 365))
+          REMAINING_DAYS=$((DIFF_DAYS % 365))
+          MONTHS=$((REMAINING_DAYS / 30))
+          DAYS=$((REMAINING_DAYS % 30))
+          
+          # Format the duration string
+          if [ "$YEARS" -eq "1" ]; then
+            YEARS_STR="1 year"
+          else
+            YEARS_STR="$YEARS years"
+          fi
+          
+          if [ "$MONTHS" -eq "1" ]; then
+            MONTHS_STR="1 month"
+          else
+            MONTHS_STR="$MONTHS months"
+          fi
+          
+          if [ "$DAYS" -eq "1" ]; then
+            DAYS_STR="1 day"
+          else
+            DAYS_STR="$DAYS days"
+          fi
+          
+          DURATION=""
+          if [ "$YEARS" -gt "0" ]; then
+            DURATION="$YEARS_STR"
+          fi
+          
+          if [ "$MONTHS" -gt "0" ]; then
+            if [ -n "$DURATION" ]; then
+              DURATION="$DURATION, $MONTHS_STR"
+            else
+              DURATION="$MONTHS_STR"
+            fi
+          fi
+          
+          if [ "$DAYS" -gt "0" ]; then
+            if [ -n "$DURATION" ]; then
+              DURATION="$DURATION, $DAYS_STR"
+            else
+              DURATION="$DAYS_STR"
+            fi
+          fi
+          
+          echo "Calculated duration: $DURATION"
+          
+          # Create new line for README
+          NEW_LINE="- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ($DURATION)"
+          
+          # Replace the line in README.md
+          sed -i "s|- 🛡️ I'm currently working at Sopra Steria with cybersecurity.*$|$NEW_LINE|g" README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git commit -m "Update work duration" || echo "No changes to commit"
+          git push
