@@ -6,7 +6,7 @@
 </picture>
 
 ~~- 🌱 I'm currently studying computer science [3/3].~~  
-- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ![Duration](https://img.shields.io/badge/duration-1_year_2_months-blue)
+- 🛡️ I'm currently working at Sopra Steria with cybersecurity since August 2024 ![Duration](https://img.shields.io/badge/duration-1_year_2_months_1_day-blue)
 - 🔭 Currently exploring: Advanced Penetration Testing techniques
 
 <picture>
